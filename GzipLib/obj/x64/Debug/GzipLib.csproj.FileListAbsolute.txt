@@ -1,0 +1,16 @@
+C:\Users\salikov_dn.IAZ\source\repos\GzipCompress\GzipLib\bin\x64\Debug\GzipLib.dll
+C:\Users\salikov_dn.IAZ\source\repos\GzipCompress\GzipLib\bin\x64\Debug\GzipLib.pdb
+C:\Users\salikov_dn.IAZ\source\repos\GzipCompress\GzipLib\obj\x64\Debug\GzipLib.csproj.CoreCompileInputs.cache
+C:\Users\salikov_dn.IAZ\source\repos\GzipCompress\GzipLib\obj\x64\Debug\GzipLib.dll
+C:\Users\salikov_dn.IAZ\source\repos\GzipCompress\GzipLib\obj\x64\Debug\GzipLib.pdb
+C:\Users\user\source\repos\FindWork\GzipCompress\GzipLib\bin\x64\Debug\GzipLib.dll
+C:\Users\user\source\repos\FindWork\GzipCompress\GzipLib\bin\x64\Debug\GzipLib.pdb
+C:\Users\user\source\repos\FindWork\GzipCompress\GzipLib\obj\x64\Debug\GzipLib.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FindWork\GzipCompress\GzipLib\obj\x64\Debug\GzipLib.dll
+C:\Users\user\source\repos\FindWork\GzipCompress\GzipLib\obj\x64\Debug\GzipLib.pdb
+C:\Users\user\source\repos\FindWork\GzipCompress\GzipLib\obj\x64\Debug\GzipLib.csprojAssemblyReference.cache
+D:\GitHub\VS\angelfx\net-gziparchiver\GzipLib\bin\x64\Debug\GzipLib.dll
+D:\GitHub\VS\angelfx\net-gziparchiver\GzipLib\bin\x64\Debug\GzipLib.pdb
+D:\GitHub\VS\angelfx\net-gziparchiver\GzipLib\obj\x64\Debug\GzipLib.csproj.CoreCompileInputs.cache
+D:\GitHub\VS\angelfx\net-gziparchiver\GzipLib\obj\x64\Debug\GzipLib.dll
+D:\GitHub\VS\angelfx\net-gziparchiver\GzipLib\obj\x64\Debug\GzipLib.pdb

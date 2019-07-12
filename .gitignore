@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/GzipCompress/bin/Debug
+/GzipCompress/bin/Release
+/GzipCompress/bin/x64
+/GzipLib/bin
